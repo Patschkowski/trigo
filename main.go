@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-	fmt.Println(lingo.Pi)
+	fmt.Println(lingo.Pi2)
 }
