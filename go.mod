@@ -2,4 +2,4 @@ module github.com/Patschkowski/trigo
 
 go 1.18
 
-require github.com/Patschkowski/lingo v0.2.0
+require github.com/Patschkowski/lingo v0.3.0
